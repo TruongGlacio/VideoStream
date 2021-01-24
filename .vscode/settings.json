@@ -1,0 +1,10 @@
+{
+    "cmake.buildTask": true,
+    "[json]": {
+    "breadcrumbs.showFiles": true,
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    }
+}
